@@ -1,6 +1,6 @@
 // See https://aka.ms/vscode-remote/devcontainer.json for format details.
 {
-	"name": "pycfdns",
+	"name": "pycfdnsv6",
 	"context": "..",
 	"image": "ludeeus/container:python",
 	"postCreateCommand": "python3 setup.py develop",

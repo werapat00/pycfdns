@@ -4,7 +4,7 @@ import setuptools
 with open("README.md", "r") as fh:
     LONG = fh.read()
 setuptools.setup(
-    name="pycfdns",
+    name="pycfdnsv6",
     version="0.0.0",
     author="Joakim Sorensen",
     author_email="hi@ludeeus.dev",
